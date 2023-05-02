@@ -2,8 +2,8 @@
 /*
    sample start file for final project - educational use only
    
-   Author:   
-   Date:     
+   Author:   Jeremy
+   Date:     05/02/2023
    
   
 
@@ -42,7 +42,7 @@ header {
 nav {
 	
     width: 200px;
-    margin: 30 5px 0 5px; 
+    margin: 0 5px 0 5px; 
     padding: 0px 0px 0 10px;
     float: left;
     text-align: center;
